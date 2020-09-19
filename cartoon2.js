@@ -1,3 +1,3 @@
 setTimeout(() => {
-  demo.classlist.add("end");
+  demo.classList.add("end");
 }, 3000);
