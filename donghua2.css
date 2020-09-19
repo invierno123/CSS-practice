@@ -1,0 +1,9 @@
+#demo {
+  border: 1px solid red;
+  width: 100px;
+  height: 100px;
+  transition: all ls linear;
+}
+#demo.end {
+  transform: translateX(200px);
+}
