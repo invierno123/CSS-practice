@@ -2,7 +2,7 @@
   border: 1px solid red;
   width: 100px;
   height: 100px;
-  transition: all ls linear;
+  transition: all 1s linear;
 }
 #demo.end {
   transform: translateX(200px);
